@@ -1,4 +1,4 @@
-/* styles.css */
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -80,16 +80,16 @@ body {
   .prev:hover, .next:hover {
     background-color: rgba(0, 0, 0, 0.8);
   }
-  /* Portfolio.css */
+
 .image-container {
   display: flex;
   justify-content: space-between;
 }
 
 .image-container img {
-  width: 30%; /* Adjust as needed */
+  width: 30%; 
 }
-/* Portfolio.css */
+
 body {
   font-family: Arial, sans-serif;
   margin: 0;
